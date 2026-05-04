@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Finish GitHub workshop",
+        "completed": true
+    },
+    {
+        "name": "Review calculator script",
+        "completed": false
+    }
+]
